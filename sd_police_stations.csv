@@ -1,0 +1,31 @@
+type,name,address,city,state,zipcode,latitude,longitude
+San Diego Police Department,Northwestern Division,12592 El Camino Real,San Diego,CA,92130,32.947510,-117.237892
+San Diego Police Department,Northeastern Division,13396 Salmon River Rd,San Diego,CA,92129,32.959229,-117.122940
+San Diego Police Department,Northern Division,4275 Eastgate Mall,San Diego,CA,92037,32.876793,-117.215607
+San Diego Police Department,Western Division,5215 Gaines St,San Diego,CA,92110,32.764118,-117.194527
+San Diego Police Department,Eastern Division,9225 Aero Dr,San Diego,CA,92123,32.809448,-117.129036
+San Diego Police Department,Mid City Division,4310 Landis St,San Diego,CA,92105,32.746616,-117.101089
+San Diego Police Department,Central Division,2501 Imperial Ave,San Diego,CA,92102,32.706039,-117.139862
+San Diego Police Department,Southeastern Division,7222 Skyline Dr,San Diego,CA,92114,32.703922,-117.042549
+San Diego Police Department,Southern Division,1120 27th St,San Diego,CA,92154,32.576073,-117.075928
+Greater San Diego County Police,La Mesa Police Department,8085 University Ave,La Mesa,CA,91942,32.766880,-117.023140
+Greater San Diego County Police,El Cajon Police Department,100 Civic Center Way,El Cajon,CA,92020,32.796844,-116.960411
+Greater San Diego County Police,Carlsbad Police Department,2560 Orion Way,Carlsbad,CA,92010,33.137852,-117.265305
+Greater San Diego County Police,Chula Vista Police Department,315 4th Ave,Chula Vista,CA,91910,32.640038,-117.082764
+Greater San Diego County Police,National City Police Department,1200 National City Blvd,National City,CA,91950,32.671719,-117.105499
+Greater San Diego County Police,Oceanside Police Department,3855 Mission Ave,Oceanside,CA,92054,33.226002,-117.328949
+Greater San Diego County Police,Escondido Police Department,1163 Centre City Parkway,Escondido,CA,92026,33.135693,-117.093910
+Campus Police,San Diego State University Police Department,5350 55th St,San Diego,CA,92182,32.774593,-117.076675
+Campus Police,UC San Diego Police Department,9500 Gilman Dr,La Jolla,CA,92093,32.882671,-117.229744
+Campus Police,University of San Diego Public Safety,5998 Alcala Park,San Diego,CA,92110,32.764118,-117.194527
+Campus Police,CSU San Marcos Police Department,425 La Moree Rd,San Marcos,CA,92078,33.134037,-117.154259
+Sheriff’s Department,North Coastal Station,175 N. El Camino Real,Encinitas,CA,92024,33.049511,-117.258522
+Sheriff’s Department,Vista Station,325 S. Melrose Dr,Vista,CA,92081,33.190205,-117.256264
+Sheriff’s Department,4S Ranch Substation,10282 Ranch Bernardo Rd,San Diego,CA,92127,33.021530,-117.118996
+Sheriff’s Department,Poway Station,13100 Bowron Rd,Poway,CA,92064,32.955357,-117.046501
+Sheriff’s Department,Imperial Beach Station,845 Imperial Beach Blvd,Imperial Beach,CA,91932,32.576263,-117.115685
+Sheriff’s Department,Lemon Grove Substation Station,3240 Main St,Lemon Grove,CA,91945,32.740639,-117.031654
+Sheriff’s Department,San Marcos Station,182 Santar Pl,San Marcos,CA,92069,33.142056,-117.146545
+Sheriff’s Department,Santee Station,8811 Cuyamaca St,Santee,CA,92071,32.836468,-116.983513
+Sheriff’s Department,Lakeside Substation,12365 Parkside St,Lakeside,CA,92040,32.857903,-116.923462
+Sheriff’s Department,Ramona Substation,1424 Montecito Rd,Ramona,CA,92065,33.037773,-116.877037
